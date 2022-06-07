@@ -34,10 +34,28 @@ This is where you can access the arrows and specific commands for the OS.
 - The key to the left of N is for displaying the hidden files in the Finder.
 - Holding V will switch the arrows to the mouse cursor movement.
 
+## Mouse (Layer 3)
+![Mouse](screenshots/Mouse.png)
+This layer override the Cmd layer by replacing the arrows with the mouse movement.
+To switch to this layer, you need to press the V key while in the Cmd layer (layer 1 / 2).
+
 ## Accents (Layer 4)
 ![Accents](screenshots/Accents.png)
 I hate dead keys. As you've seen, I'm using the home row mod, and when you try to type fast, special characters always get written when I hold Alt. To prevent this, I deactivated the dead keys in my keyboard layout and use instead the Alt # codes by pressing Alt and the corresponding numpad numbers. I then created macros for each characters. And also created a super key for each of them. Single click is the lower case character. Double click is the capital. I you are on Mac and are using my AltCode layout, I allowed to hold shift to write the uppercase instead of using the double click.
 
+## Numpad (Layer 5)
+![NumPad](screenshots/NumPad.png)
+Until the Dygma Defy is released, I prefer less finger traveling, especially on a staggered keyboard. This is why the numbers are on only two rows and not replicating the default numerical pad.
+On the right side, all the numerical special characters.
+I also switch the backspace keys to delete.
+
+## Numpad (Layer 5)
+![F#](screenshots/Functions.png)
+Basic F keys with home row mod allowing easy shortcuts.
+
+## Numpad (Layer 5)
+![Raw](screenshots/Raw.png)
+I don't really use this layer, but useful when using applications requesting to hold keys that I assigned modifiers, like the home row or the thumb keys.
 
 ## Q&A
 - `Why the default layer is not 1?`
