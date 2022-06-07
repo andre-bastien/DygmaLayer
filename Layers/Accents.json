@@ -1,0 +1,730 @@
+{
+  "layerNames": [
+    {
+      "id": 0,
+      "name": "Cmd "
+    },
+    {
+      "id": 1,
+      "name": "Cmd ⊞"
+    },
+    {
+      "id": 2,
+      "name": "Mouse"
+    },
+    {
+      "id": 3,
+      "name": "Accents ⊞"
+    },
+    {
+      "id": 4,
+      "name": "NumPad"
+    },
+    {
+      "id": 5,
+      "name": "F#"
+    },
+    {
+      "id": 6,
+      "name": "Raw"
+    },
+    {
+      "id": 7,
+      "name": ""
+    },
+    {
+      "id": 8,
+      "name": ""
+    },
+    {
+      "id": 9,
+      "name": "⊞"
+    }
+  ],
+  "keymap": [
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 53924,
+      "label": "è ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53928,
+      "label": "ê ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53923,
+      "label": "é ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 2083,
+      "label": "^"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 53926,
+      "label": "ù ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53930,
+      "label": "û ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53927,
+      "label": "î ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53935,
+      "label": "ô ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53933,
+      "label": "œ ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 53925,
+      "label": "à ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53929,
+      "label": "â ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53940,
+      "label": "ë ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 49478,
+      "label": "`",
+      "extraLabel": "SHIFT/"
+    },
+    {
+      "keyCode": 2101,
+      "label": "~"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 2084,
+      "label": "&"
+    },
+    {
+      "keyCode": 53921,
+      "label": "| ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53931,
+      "label": "ï ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53922,
+      "label": "! ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 2104,
+      "label": "?"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 53932,
+      "label": "ç ⊞",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 2079,
+      "label": "@"
+    },
+    {
+      "keyCode": 46,
+      "label": "="
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    }
+  ],
+  "colormap": [
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    9,
+    9,
+    9,
+    6,
+    15,
+    11,
+    11,
+    9,
+    6,
+    6,
+    15,
+    15,
+    15,
+    15,
+    11,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    11,
+    11,
+    9,
+    11,
+    11,
+    15,
+    15,
+    6,
+    6,
+    9,
+    6,
+    6,
+    15,
+    15,
+    15,
+    15,
+    6,
+    12,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    5,
+    15,
+    15,
+    10,
+    15,
+    15,
+    15,
+    15,
+    10,
+    4,
+    5,
+    5,
+    11,
+    4,
+    4,
+    11,
+    4,
+    4,
+    10,
+    10,
+    15,
+    15,
+    15,
+    15,
+    10,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    10,
+    15,
+    15,
+    15,
+    15,
+    15,
+    10,
+    4,
+    5,
+    5,
+    11,
+    4,
+    4,
+    11,
+    4,
+    4,
+    10,
+    10,
+    15,
+    15,
+    15,
+    15,
+    15,
+    10,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    10
+  ],
+  "palette": [
+    {
+      "r": 255,
+      "g": 77,
+      "b": 0,
+      "rgb": "rgb(255, 77, 0)"
+    },
+    {
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "rgb": "rgb(255, 255, 0)"
+    },
+    {
+      "r": 126,
+      "g": 250,
+      "b": 8,
+      "rgb": "rgb(126, 250, 8)"
+    },
+    {
+      "r": 0,
+      "g": 255,
+      "b": 128,
+      "rgb": "rgb(0, 255, 128)"
+    },
+    {
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "rgb": "rgb(128, 0, 128)"
+    },
+    {
+      "r": 128,
+      "g": 0,
+      "b": 255,
+      "rgb": "rgb(128, 0, 255)"
+    },
+    {
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "rgb": "rgb(255, 0, 255)"
+    },
+    {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "rgb": "rgb(255, 255, 255)"
+    },
+    {
+      "r": 128,
+      "g": 48,
+      "b": 0,
+      "rgb": "rgb(128, 48, 0)"
+    },
+    {
+      "r": 255,
+      "g": 192,
+      "b": 0,
+      "rgb": "rgb(255, 192, 0)"
+    },
+    {
+      "r": 0,
+      "g": 100,
+      "b": 100,
+      "rgb": "rgb(0, 100, 100)"
+    },
+    {
+      "r": 0,
+      "g": 255,
+      "b": 255,
+      "rgb": "rgb(0, 255, 255)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "rgb": "rgb(0, 0, 255)"
+    },
+    {
+      "r": 224,
+      "g": 192,
+      "b": 255,
+      "rgb": "rgb(224, 192, 255)"
+    },
+    {
+      "r": 216,
+      "g": 255,
+      "b": 255,
+      "rgb": "rgb(216, 255, 255)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    }
+  ]
+}
